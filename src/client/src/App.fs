@@ -1,4 +1,4 @@
-module ComVu_SPA_Client
+module ComVu.SPA.Client
 
 open Fable.Core
 open Fable.Core.JsInterop
